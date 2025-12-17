@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Matthew (mattywalsh4)
 
-I’m a Qualified DevOps Engineer and home lab enthusiast building and documenting my **Proxmox home lab project** 🖥️🔧  
+I’m a qualified DevOps Engineer and home lab enthusiast building and documenting my **Proxmox home lab project** 🖥️🔧  
 I also enjoy exploring .Net API development and software Automation tools.
 
 ---
