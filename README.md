@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m Matthew (mattywalsh4)
 
-<!--
-**mattywalsh4/mattywalsh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Qualified DevOps Engineer and home lab enthusiast building and documenting my **Proxmox home lab project** 🖥️🔧  
+I also enjoy exploring .Net API development and software Automation tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Project: Proxmox Home Lab
+
+I’m working on a **self-hosted virtualization setup** using Proxmox — detailing hardware choices, network design, storage configuration, and automation.  
+You can track my progress and documentation in the dedicated repository:
+
+👉  **github.com/mattywalsh4/proxmox-home-lab**
+
+Highlights:
+- 🧩 Design docs (Markdown + diagrams)
+- 📊 Architecture diagrams
+- 📂 Setup scripts
+- 📘 Step-by-step guides
+
+---
+
+## 📦 Repositories
+
+Here are some of my public projects:
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| **Collage-Application** | C# | A collage creation tool |
+| **WalshWebSave** | .Net | First project demonstrating basic API skills |
+| **Proxmox Home Lab (upcoming)** | Markdown / configs | Home lab build and design repo |
+
+---
+
+## 🛠 Tech Interests
+
+- 🖥 Home Lab Infrastructure (Proxmox, virtualization)
+- 💻 C#, .NET, YMAL, Ansible
+- 📄 Markdown documentation workflows
+- 📊 Diagrams and architecture planning
+
+---
+
+## 📫 Connect
+
+Feel free to fork, ⭐ a project, or follow me for updates!
